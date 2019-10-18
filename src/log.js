@@ -1,4 +1,4 @@
-const bunyan = require('bunyan')
+const bunyan = require('@scoop/bunyan')
 const packagejson = require('../package.json')
 const assert = require('assert')
 
